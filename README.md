@@ -8,7 +8,7 @@
 
 ### 📌 &nbsp;Software & Tools
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/Adityakanoi2001">
