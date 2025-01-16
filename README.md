@@ -1,6 +1,10 @@
 ## Hi there 👋
 [![GitHub followers](https://img.shields.io/github/followers/ezesub.svg?style=social&label=Followers)](https://github.com/Ahmad-shaikh575?tab=followers)
 <img src="https://komarev.com/ghpvc/?username=ezesub&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+
+### 🚀 &nbsp;Skills
+
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -16,5 +20,5 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
 </p>
 
-### 💰 &nbsp;Support My Work
+### 💳 &nbsp;Support Me
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adityakanoi) 
