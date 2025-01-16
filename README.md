@@ -1,10 +1,19 @@
 ## Hi there 👋
 
-<h3>My GitHub Stats</h3>
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezesub&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
-<br /><br />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezesub&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Abdo Achhoubi Github Stats">
-<br /><br />
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/Adityakanoi2001">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ezesub&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/Adityakanoi2001">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ezesub&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
 
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
+</p>
+
+### 💰 &nbsp;Support My Work
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adityakanoi) 
