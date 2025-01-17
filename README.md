@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/ezesub.svg?style=social&label=Followers)](https://github.com/Ahmad-shaikh575?tab=followers)
 <img src="https://komarev.com/ghpvc/?username=ezesub&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Hola) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ezze.sub/)
 
 <!-- + Aboutme + -->
 
