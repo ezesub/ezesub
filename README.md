@@ -14,7 +14,7 @@
 <pre>
 💻 Self-taught junior developer.
 📚 Future senior programmer.
-🌱Learn as best as possible.
+🌱 Learn as best as possible.
 📌 I will add each programming language learned.
 🚩 Interested in application development, server control, programming logic.
 </pre>
