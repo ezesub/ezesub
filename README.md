@@ -7,22 +7,23 @@
   <h1 align="center">Hi 👋, I'm Ezequiel</h1>
 </p>
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills </h2>
 
 ### 💻 &nbsp;Programming languages, Software & Tools
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23000000?style=flat&logo=github&logoColor=%23E8E8E8&labelColor=%23181717)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%23000000?style=flat&logo=bat&logoColor=%23E8E8E8&labelColor=%2331369E)
+![GNU_Bash](https://img.shields.io/badge/GNU%20Bash-%23000000?style=flat&logo=gnubash&logoColor=%23E8E8E8&labelColor=%234EAA25)
+![Vim](https://img.shields.io/badge/vim-%23019733?style=flat&logo=vim&logoColor=%23019733&labelColor=%23131622)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23000000?style=flat&logo=html5&logoColor=%23E8E8E8&labelColor=%23E34F26)
+![CSS3](https://img.shields.io/badge/CSS-%23000000?style=flat&logo=CSS3&logoColor=%23E8E8E8&labelColor=%231572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23000000?style=flat&logo=javascript&logoColor=%23E8E8E8&labelColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-%23000000?style=flat&logo=php&logoColor=%23E8E8E8&labelColor=%23777BB4)
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![MySQL](https://img.shields.io/badge/MySQL-%23000000?style=flat&logo=mysql&logoColor=%23E8E8E8&labelColor=%234479A1)
+![Flutter](https://img.shields.io/badge/Flutter-%23000000?style=flat&logo=flutter&logoColor=%23E8E8E8&labelColor=%2302569B)
+![Firebase](https://img.shields.io/badge/Firebase-%23000000?style=flat&logo=firebase&logoColor=%23E8E8E8&labelColor=%23DD2C00)
 
 ## ⚙️ &nbsp;GitHub Analytics
 
